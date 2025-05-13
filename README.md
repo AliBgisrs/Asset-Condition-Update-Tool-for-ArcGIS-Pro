@@ -21,7 +21,7 @@ This ArcGIS Pro Python Toolbox automates the integration of inspection data with
 ### 🔧 Usage
 
 1. Open **ArcGIS Pro** and load your project.
-2. Right-click **Toolboxes** → Add Toolbox → Navigate to `AssetConditionTool.pyt`
+2. Right-click **Toolboxes** → Add Toolbox → Navigate to the tool
 3. Double-click the tool and provide:
    - Asset feature layer (with `AssetID`)
    - Inspection table (with `AssetID` and `Condition` fields)
